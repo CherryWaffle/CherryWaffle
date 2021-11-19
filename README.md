@@ -8,7 +8,7 @@
 - 😁 I code discord bots mainly using JavaScript packages
 - 🎡 Wanting to collab on a multipurpose discord bot !
 - 🧮 A CS and Management aspirant
-- 🔗 To contact, DM me on discord !
+- 🔗 To contact, DM me on [discord](https://discord.com/users/752444915346046996) !
 
 
 <br>
