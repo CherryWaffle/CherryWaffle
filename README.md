@@ -13,7 +13,7 @@
 
 <br>
 
-## My development on [Whoopp](https://whoopp.xyz)
+## My development in [Whoopp](https://whoopp.xyz)
 
 - 💬 [Whoopp](https://whoopp.xyz) is a web browser based chat application, inspired from WhatsApp and Discord
 - 🎏 Currently the frontend developer of the application
