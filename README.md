@@ -28,7 +28,3 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherryWaffle&layout=compact&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true"  />
 
 <br>
-
-<img src="https://cdn.discordapp.com/attachments/901819142372491335/911146431383994378/68747470733a2f2f646973636f72642e636f6d2f6173736574732f65303565616436653665626330386466393239313733386430616136393836642e706e67.png" width="19px " style="text-align:center" align="center">
-  <a href="https://discord.com/users/752444915346046996">Discord: CherryWaffle#2152</a>
-  <br>
