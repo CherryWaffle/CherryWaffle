@@ -10,6 +10,7 @@
 - 🧮 A CS and Management aspirant
 - 🔗 To contact, DM me on [discord](https://discord.com/users/752444915346046996) !
 
+![This is an image](hhttps://discord.c99.nl/widget/theme-3/793002654359224331.png)
 
 <br>
 
