@@ -4,7 +4,7 @@
 
 ## Here is something about me :)
 
-- 🌱 I'm a 16 year old from India
+- 🌱 I'm a 16 year old :)
 - 😁 I code discord bots mainly using JavaScript packages
 - 🎡 Wanting to collab on a multipurpose discord bot !
 - 🧮 A CS and Management aspirant
