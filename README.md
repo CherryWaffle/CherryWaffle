@@ -4,22 +4,13 @@
 
 ## Here is something about me :)
 
-- 🌱 I'm a 16 year old :)
+- 🌱 I'm 18 :)
 - 😁 I code discord bots mainly using JavaScript packages
-- 🎡 Wanting to collab on a multipurpose discord bot !
+- 🎡 Looking for cool people to talk to !
 - 🧮 A CS and Management aspirant
 - 🔗 To contact, DM me on [discord](https://discord.com/users/752444915346046996) !
 
 ![Discord Card](https://discord.c99.nl/widget/theme-3/793002654359224331.png)
-
-<br>
-
-## My development in [Whoopp](https://whoopp.xyz)
-
-- 💬 [Whoopp](https://whoopp.xyz) is a web browser based chat application, inspired from WhatsApp and Discord
-- 🎏 Currently the frontend developer of the application
-- 👒 Project expected to release in a [few months](https://whoopp-release.unluckyfroggy.repl.co/)
-- 🏆 Join the official Whoopp discord server [here](https://discord.gg/g7RnXHJKeh)
 
 <br>
 
