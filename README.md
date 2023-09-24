@@ -5,9 +5,8 @@
 ## Here is something about me :)
 
 - 🌱 I'm 18 :)
-- 😁 I code discord bots mainly using JavaScript packages
-- 🎡 Looking for cool people to talk to !
-- 🧮 A CS and Management aspirant
+- 😁 I like to code and im also into various network and system administration level topics
+- 🧮 CSE-IT Student
 - 🔗 To contact, DM me on [discord](https://discord.com/users/752444915346046996) !
 
 ![Discord Card](https://discord.c99.nl/widget/theme-1/1113126507385208883.png)
