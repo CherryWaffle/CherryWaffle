@@ -4,8 +4,8 @@
 
 ## Here is something about me :)
 
-- 🌱 I'm 18 :)
-- 😁 I like to code and im also into various network and system administration level topics
+- 🌱 I'm 20 :)
+- 😁 I like to code and im also into various network and system administration level topics.
 - 🧮 CSE-IT Student
 - 🔗 To contact, DM me on [discord](https://discord.com/users/752444915346046996) !
 
