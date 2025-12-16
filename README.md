@@ -1,7 +1,4 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2318F72C&size=22&height=30&lines=Hello+There+!;I'm+CherryWaffle+!;A+Student+Developer)](https://github.com/CherryWaffle)
-
-<img src="https://cdn.discordapp.com/attachments/901819142372491335/911116279845371914/GitHub_Profile_README_banner_main.jpg">
-
 ## Here is something about me :)
 
 - 🌱 I'm 20 :)
