@@ -55,11 +55,25 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 0
           plugin_languages_ignored: html, css
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
 
           repositories_forks: yes
+          
+          # Topics plugin - shows mastered topics
           plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_topics_limit: 0
+          
+          # Notable contributions plugin - shows technology icons
+          plugin_notable: yes
+          plugin_notable_repositories: yes
+          plugin_notable_indepth: yes
+          
+          # Achievements plugin - may show some tech badges
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
 
           # Lines and traffic plugins
           plugin_lines: yes
