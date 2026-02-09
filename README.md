@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ranjithhkumar-"><img loading="lazy" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/ranjithhkumar-s"><img loading="lazy" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   &nbsp;
   <a href="https://github.com/CherryWaffle"><img loading="lazy" alt="Views" src="https://komarev.com/ghpvc/?username=CherryWaffle&style=flat"></a>
 </p>
